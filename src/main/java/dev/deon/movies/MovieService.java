@@ -1,6 +1,6 @@
 package dev.deon.movies;
 
-import org.bson.types.ObjectId;
+import dev.deon.movies.models.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

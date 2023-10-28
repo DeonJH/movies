@@ -1,4 +1,4 @@
-package dev.deon.movies;
+package dev.deon.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

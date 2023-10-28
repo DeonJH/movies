@@ -1,5 +1,6 @@
 package dev.deon.movies;
 
+import dev.deon.movies.models.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
