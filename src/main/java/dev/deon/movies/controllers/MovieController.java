@@ -1,5 +1,6 @@
-package dev.deon.movies;
+package dev.deon.movies.controllers;
 
+import dev.deon.movies.services.MovieService;
 import dev.deon.movies.models.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

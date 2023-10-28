@@ -1,6 +1,7 @@
-package dev.deon.movies;
+package dev.deon.movies.services;
 
 import dev.deon.movies.models.Movie;
+import dev.deon.movies.repositories.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

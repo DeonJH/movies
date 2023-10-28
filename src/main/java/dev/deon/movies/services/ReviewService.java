@@ -1,7 +1,8 @@
-package dev.deon.movies;
+package dev.deon.movies.services;
 
 import dev.deon.movies.models.Movie;
 import dev.deon.movies.models.Review;
+import dev.deon.movies.repositories.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;

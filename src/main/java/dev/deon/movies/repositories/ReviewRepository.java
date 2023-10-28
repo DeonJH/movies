@@ -1,4 +1,4 @@
-package dev.deon.movies;
+package dev.deon.movies.repositories;
 
 import dev.deon.movies.models.Review;
 import org.bson.types.ObjectId;
